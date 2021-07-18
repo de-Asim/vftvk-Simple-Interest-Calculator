@@ -1,6 +1,3 @@
-
-
-
 rate.addEventListener("change", updateRate)
 function updateRate() {
     var rateval = document.getElementById("rate").value;
